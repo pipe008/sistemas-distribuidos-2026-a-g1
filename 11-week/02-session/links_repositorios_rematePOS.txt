@@ -1,0 +1,14 @@
+REPOSITORIOS DE REMATEPOS
+
+Frontend:
+https://github.com/RematePos/RematePos-Frontend
+
+Backend:
+https://github.com/RematePos/RematePos-Backend
+
+Base de Datos:
+https://github.com/RematePos/RematePos-bd
+
+Otros repositorios relacionados:
+Sistema Principal: https://github.com/RematePos/RematePos
+API REST: https://github.com/RematePos/RematePos-api
